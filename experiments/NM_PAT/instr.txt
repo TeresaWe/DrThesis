@@ -1,0 +1,94 @@
+Hi Hannes,
+
+
+hier die Instruktionen für den NM-PAT
+
+# Herzlich Willkommen
+
+Bei diesem Experiment wollen wir herausfinden, wie gut Ihr Gedächtnis
+für einzelne Töne ist. Dazu werden Sie zunächt verschiedene Töne hören
+und lernen, wie diese heißen. Jeder Ton bekommt dabei eine Bezeichnung
+wie in der Musik z.B. A, C, Fis, oder Des. (** könntest du bei den
+Notennamen bitte die Doppelnamen auf einen namen (den gängigeren)
+kürzen, da das für Nichtmusiker evtl verwirrend ist).
+
+Insgesamt werden Sie 12 Töne lernen. Es gibt dabei drei Blöcke für
+jeweils 4 Töne. Nach jedem Block gibt es eine kurze Übung.
+
+Am Ende des Experiments möchten wir schließlich überprüfen, wie gut Sie
+die Namen der Töne wieder abrufen können, wenn Sie den Ton hören.
+Außerem interessiert uns, ob Sie den richtige Ton auch mit einem Regler
+einstellen können, wenn wir Ihnen den Buchstaben zeigen.
+
+Weiter mit der <grünen Taste>!
+
+## Lernphase
+
+Nun geht es los mit den ersten/zweiten/dritten vier Tönen und Ihren
+Namen, die Sie lernen sollen. Versuchen Sie, sich den Klang und den
+Namen des Tones möglichst gut einzuprägen. Jeder Ton kommt mehrmals vor.
+Sie brauchen nichts weiter tun, als den Tönen konzentriert zuzuhören.
+
+Weiter mit der <grünen Taste>!
+
+##Abrufphase Teil 1
+
+Lernphase beendet. Im Folgenden hören Sie nun jeweils einen der soeben
+gelernten vier Töne. Wie heißt der Ton. Klicken Sie mit der PC-Maus auf
+das Feld auf dem Bildschirm, das den Namen des Tones enthält. Für die
+Auswahl des Tones haben Sie 5 Sekunden Zeit.
+
+Weiter mit der <grünen Taste>!
+
+(**Bitte bild von der Auswahlmaske als Beispiel einfügen)
+
+##Abrufphase Teil2
+
+Nun wird es schwieriger. Können Sie auch den Ton mit dem Regler auf die
+richtige Höhe einstellen? Im Folgenden sehen Sie jeweils den Namen eines
+Tones auf dem Bildschirm und hören einen zufälligen Ton. Versuchen Sie,
+den Ton mit dem Regler in der Höhe zu verändern, sodass er klingt, wie
+der Ton, der diesen Namen hat. Wenn Sie den Regler gedrückt halten,
+können Sie den Ton noch feiner einstellen. Sie haben für den Ton 15
+Sekunden Zeit.
+
+Weiter mit der <grünen Taste>!
+
+Bock 2
+
+...s.o.
+
+Block 3
+
+....s.o.
+
+##Abrufphase
+
+Sie haben die komplette Lernphase durchlaufen.
+
+Für den zweite Teil wird nun das EEG angebracht. In dieser Zeit können
+Sie sich entspannen und erholen.
+
+(Leertaste)
+
+Können Sie sich noch an die Töne vom Anfang erinnern? In den beiden
+folgenden Aufgaben möchten wir wissen, wie viele von allen 12 Tönen der
+Lernphase sie noch benennen oder einstellen können. Diese Aufgabe ist
+etwas schwieriger, erfordert daher mehr Konzentration und dauert etwas
+länger.
+
+Weiter mit der <grünen Taste>!
+
+*dann Instruktion von PIT (Abrufphase 1) und PAT wie bei Musikern
+
+Weiter mit der <grünen Taste>!
+
+---------------------
+ich hoffe es passt alles!
+Lg
+Teresa
+
+-- 
+------------------------------------------------------
+Teresa Wenhart (M.Sc.)
+cand.rer.-nat. (Center for Systems Neuroscience 
