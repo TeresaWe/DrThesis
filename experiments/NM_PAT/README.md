@@ -1,4 +1,4 @@
-#Non-musicians Pitch Adjustment Test
+# Non-musicians Pitch Adjustment Test
 
 The test is identical to the PAT for musicians, but contains a learning task at the beginning (presenting the 12 tones on two blocks of 6 with repetitions).
 Within the learning phase active naming and adjustment tests included. After the learning phase a recognition test of all 12 tones (naming) and the PAT for musicians are conducted.
