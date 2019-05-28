@@ -1,3 +1,13 @@
+#Hierarchical letters
+
+Two conditions randomizing the order of blocks (focus on local vs. global aspects of the hierarchical letters first). One half of the participants should undergo the one condition, the other half the other one.
+
+'GlobalZuerst' = This condition starts with the global block, followed by the local block.
+
+'LocalZuerst' = This condition starts with the local block, followed by the global block.
+
+##German explanation of solution for technical issues:
+
 -globale Antwortstatistiken für den Benutzer werden noch direkt in den Code eingebaut (etwas schmutzig, aber das schnellste, und die genauen daten werden ja sowiseo gespeichert...)
 
 UM DAS BUILDER-PROJEKT ZUM LAUFEN ZU BRINGEN:
