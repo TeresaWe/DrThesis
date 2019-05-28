@@ -5,3 +5,5 @@ Two conditions randomizing the order of blocks (focus on local vs. global aspect
 'GlobalZuerst' = This condition starts with the global block, followed by the local block.
 
 'LocalZuerst' = This condition starts with the local block, followed by the global block.
+
+Many thanks to Pablo Carra for his help and contribution in programming the experiment. 
