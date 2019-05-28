@@ -1,4 +1,4 @@
-#Hierarchical letters
+# Hierarchical letters
 
 Two conditions randomizing the order of blocks (focus on local vs. global aspects of the hierarchical letters first). One half of the participants should undergo the one condition, the other half the other one.
 
@@ -8,7 +8,7 @@ Two conditions randomizing the order of blocks (focus on local vs. global aspect
 
 Many thanks to Pablo Carra for his help and contribution in programming the experiment. 
 
-##German explanation of solution for technical issues:
+## German explanation of solution for technical issues:
 
 -globale Antwortstatistiken für den Benutzer werden noch direkt in den Code eingebaut (etwas schmutzig, aber das schnellste, und die genauen daten werden ja sowiseo gespeichert...)
 
