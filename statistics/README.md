@@ -7,6 +7,6 @@ The file "match result tables.R" can then be used to create a joint data frame o
 Only network results have to be added manually, as this heavily depends on which of the huge amount of indicators one wishes to analyse.
 
 The folders for AGLT, HL, IMRT and networks also contain the statistical analyses leading to three publications:
-https://www.frontiersin.org/article/10.3389/fpsyg.2019.00031/full
-https://molecularautism.biomedcentral.com/articles/10.1186/s13229-019-0272-6
+https://www.frontiersin.org/article/10.3389/fpsyg.2019.00031/full, 
+https://molecularautism.biomedcentral.com/articles/10.1186/s13229-019-0272-6, 
 http://www.nature.com/articles/s41598-019-44297-x
