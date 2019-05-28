@@ -1,6 +1,6 @@
 # Pitch adjustment test
 
-Start of the experiment is possible by a shell-skript, which opens a GUI to select the condition and type in the participant#s code. The experiment consists of 108 trials in three blocks of 36 (3 per musical label) and 15 seconds are given for each trial. 
+Start of the experiment is possible by a shell-skript, which opens a GUI to select the condition and type in the participant#s code. The experiment consists of 108 trials in three blocks of 36 (3 per musical label) and 15 seconds are given for each trial. By the use of a parallel port triggers can be send to an EEG system to record the EEG at the same time and mark the trials begin, end and target in the EEG file. 
 
 Many thanks to Hannes Schmidt & Arthur Ehle for their help and contribution in programming the experiment. 
 
