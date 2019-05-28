@@ -1,4 +1,4 @@
-# REsting State EEG
+# Resting State EEG
 
 Start of the experiment is possible by a shell-skript. The two restin state conditions (first EO, then EC) have to be started by with a button press. 
 10 seconds after the button press the Resting state condition starts and a tigger is send to the EEG system. 
