@@ -1,4 +1,36 @@
-# Anleitung Parallelport
+# Pitch adjustment test
+
+Start of the experiment is possible by a shell-skript, which opens a GUI to select the condition and type in the participant#s code. The experiment consists of 108 trials in three blocks of 36 (3 per musical label) and 15 seconds are given for each trial. 
+
+Many thanks to Hannes Schmidt & Arthur Ehle for their help and contribution in programming the experiment. 
+
+# Coding of EEG-Trigger
+
+| Event    | Code|
+| -------- | -------- |
+| start of tone| 101-112 (via Zielton)  |
+| first touch of controller | 200   |
+| confirmation by participant | 201   |
+| t > 15s | 202 |
+
+# Coding Zieltöne
+| musical label, trial | Code |
+| ---- | ---- |
+| A | 101 |
+| A# / Bb | 102 |
+| B | 103 |
+| C | 104 |
+| C# / Db | 105 |
+| D | 106 |
+| D# / Eb | 107 |
+| E | 108 |
+| F | 109 |
+| F# / Gb | 110 |
+| G | 111 |
+|G# / Ab | 112 |
+
+
+## Anleitung Parallelport (GERMAN)
 
 Wenn `dmesg` folgendes ausgibt:
 
@@ -23,27 +55,3 @@ aus dem Kernel "unloaden". Soll das Modul dauerhaft beim Start nicht mehr gelade
 blacklist lp
 ```
 
-# Kodierung der EEG-Trigger
-
-| Event    | Kodierung|
-| -------- | -------- |
-| Ton-Start| 101-112 (via Zielton)  |
-| Erste Berührung | 200   |
-| Bestätigung | 201   |
-| t > 15s | 202 |
-
-# Kodierung der Zieltöne
-| Ton | Kodierung |
-| ---- | ---- |
-| A | 101 |
-| A# / B | 102 |
-| H | 103 |
-| C | 104 |
-| C# / Db | 105 |
-| D | 106 |
-| D# / Eb | 107 |
-| E | 108 |
-| F | 109 |
-| F# / Gb | 110 |
-| G | 111 |
-|G# / Ab | 112 |
